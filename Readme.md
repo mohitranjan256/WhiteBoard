@@ -1,6 +1,6 @@
 # Writing Board
 
-### Preview:: 
+### Preview:: https://mohitwhiteboard.netlify.app/
 ### Description
 
 It is a web-based drawing board application. The basic functionality of this application are:- 
